@@ -1,10 +1,10 @@
 ### Setup .env file
 
 ```js
-PORT=
+PORT=5000
 MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=...
+JWT_SECRET=....
+NODE_ENV=development
 ```
 
 ### Build the app
